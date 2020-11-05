@@ -1,8 +1,8 @@
 {
     "name": "blazon",
-    "displayName": "blazon",
-    "description": "placeholder description",
-    "version": "0.0.1",
+    "displayName": "Blazon",
+    "description": "A dark theme with orange accents, inspired by Synth.",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "blazon",
+                "label": "Blazon",
                 "uiTheme": "vs-dark",
                 "path": "./themes/blazon-color-theme.json"
             }
