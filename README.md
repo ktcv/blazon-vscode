@@ -8,11 +8,6 @@ Colors inspired by SynthWave '84.
 
 This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ktcv.blazon):
 
-1. On VS Code go to **View -> Command Palette**
-2. Then enter **Install Extension**
-3. Write **Slack Theme**
-4. Select it or press Enter to install
-
 ## Improvements
 
 Have you identified any bugs or improvements? Contact me or feel free to change the project at [GitHub](https://github.com/ktcv/blazon-vscode).
