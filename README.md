@@ -1,6 +1,6 @@
 # Blazon for Visual Studio Code
 
-<img src="https://github.com/ktcv/blazon-vscode/blob/main/demo/demo.png" >
+<img src="https://github.com/ktcv/blazon-vscode/raw/main/demo/demo.png" >
 
 Colors inspired by SynthWave '84.
 
