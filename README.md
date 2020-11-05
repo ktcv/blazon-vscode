@@ -6,7 +6,7 @@ Colors inspired by SynthWave '84.
 
 ## Install
 
-This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ktcv.blazon):
+This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ktcv.blazon).
 
 ## Improvements
 
