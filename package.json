@@ -3,6 +3,8 @@
     "displayName": "Blazon",
     "description": "A dark theme with orange accents, inspired by Synth.",
     "version": "1.0.0",
+    "publisher": "ktcv",
+    "author": "Kevin Chen",
     "engines": {
         "vscode": "^1.50.0"
     },
